@@ -1,6 +1,8 @@
 body {	
 
-
+p {
+	background-color: Gold;
+}
 
 h1 {
 	color: GoldenRod;
@@ -8,8 +10,8 @@ h1 {
 }
 
 p {
-	color: GoldenRod;
-background-color: Gold;
+color: GoldenRod;
+
 }
 
 }
