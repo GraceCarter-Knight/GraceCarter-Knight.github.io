@@ -18,7 +18,7 @@ background-color: Gold;
 
 ul{
 list-style-type: none; 	/*Removes bullets*/ 
-background:GoldRod;
+background:GoldenRod;
 width: 150px;
 padding: 0;  /*Removes padding on left of list*/
 margin: 0;
