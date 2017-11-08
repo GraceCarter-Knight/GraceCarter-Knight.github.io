@@ -19,7 +19,10 @@ list-style-type: none;
 background: violet;
 width: 150px;
 padding: 0;
-	
+}
+
+li a {
+	display: block: 
 }
 
 
