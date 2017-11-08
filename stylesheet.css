@@ -11,6 +11,8 @@ p {
 }
  
 body {
+	margin: 0;  /*gets rid of white space*/
+	
 background-color: Gold;
 }
 
@@ -23,11 +25,12 @@ padding: 0;
 
 li a {
 	display: block: 
+	text-decoration:none;
 }
 
 
 li a:hover{
-	background: light purple;
+	background: white;
 }
 
 
