@@ -29,6 +29,8 @@ margin: 0;
 li a {
 	display: block: 
 	text-decoration:none;
+	color:purple;
+	font-family: Arial;
 }
 
 
